@@ -1,0 +1,2 @@
+source /home/nikunj/.rvm/scripts/rvm     : to start running rvm
+gem query --local                        : to list all gems
